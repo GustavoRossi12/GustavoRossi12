@@ -1,4 +1,4 @@
-<h3 align="left">apenas um aluno de ti</h3>
+<h3 align="left">Prazer, sou Gus, atualmente fazendo curso tecnico em Informatica, fique a vontade para conferir meus projetos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorossi12&label=visualiza%C3%A7%C3%B5es&color=d25d0f&style=flat-square" alt="gustavorossi12" /> </p>
 
