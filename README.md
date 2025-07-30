@@ -9,4 +9,4 @@
 <img src="https://ranfren.neocities.org/gifs/magpie.gif" alt="randal">
 
 ## <h3 align="left">✩caso queire me contatar:</h3>
- <a href = "mailto:contato@mariane.jmelo"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "gustavorossidellabruna@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
