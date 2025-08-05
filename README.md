@@ -2,8 +2,7 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorossi12&show_icons=true&theme=merko&title_color=f04800&text_color=fe7134&hide_border=true&locale=en" alt="gustavorossi12" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorossi12&show_icons=true&theme=synthwave&title_color=7114a3&text_color=8e6be1&bg_color=0d0f45&hide_border=true&locale=en" alt="gustavorossi12" /></p>
 
 ## <h3 align="left">✩Prazer, sou Gus, atualmente fazendo curso tecnico em Informatica, fique a vontade para conferir meus projetos</h3>
 
