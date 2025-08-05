@@ -1,10 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorossi12&show_icons=true&theme=dark&title_color=f04800&text_color=fe7134&hide_border=true&locale=en" alt="gustavorossi12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorossi12&show_icons=true&theme=merko&title_color=f04800&text_color=fe7134&hide_border=true&locale=en" alt="gustavorossi12" /></p>
+
 
 ## <h3 align="left">✩Prazer, sou Gus, atualmente fazendo curso tecnico em Informatica, fique a vontade para conferir meus projetos</h3>
 
