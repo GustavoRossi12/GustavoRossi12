@@ -1,7 +1,3 @@
-
-<p align="left">
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorossi12&show_icons=true&theme=synthwave&title_color=c73c00&text_color=fe7e39&bg_color=000000&hide_border=true&locale=en" alt="gustavorossi12" /></p>
 
 
