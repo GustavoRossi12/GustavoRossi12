@@ -57,10 +57,6 @@
 
 ---
 
-## Projetos
-
-Aqui compartilho alguns dos projetos que desenvolvi, incluindo sites, sistemas de gerenciamento, aplicações e projetos relacionados à programação e criação de jogos.
-
 ## Contato
 
 <p align="left">
