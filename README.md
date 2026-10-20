@@ -1,9 +1,9 @@
 # Gustavo Rossi
 
-<h3 align="center">Estudante de Técnico em Informática | Desenvolvedor em formação</h3>
+<h3 align="left">Estudante de Técnico em Informática</h3>
 
-<p align="center">
-  Tenho interesse em desenvolvimento de software, criação de sistemas, automação e desenvolvimento de jogos. Busco aprimorar minhas habilidades constantemente e transformar ideias em projetos funcionais.
+<p align="left">
+  Olá! Sou estudante de Técnico em Informática e gosto de trabalhar com programação, desenvolvimento de sistemas e criação de projetos. Tenho conhecimentos em diferentes linguagens e ferramentas, e gosto de explorar novas tecnologias e colocar minhas ideias em prática.
 </p>
 
 ---
@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 </p>
 
-### Banco de dados e serviços
+### Banco de dados
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
@@ -49,20 +49,20 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
 </p>
 
-- Automação de tarefas com Python
-- Pacote Microsoft Office — nível avançado
+- Automação com Python
+- Microsoft Office — avançado
 
 ---
 
 ## Projetos
 
-Desenvolvo projetos voltados à criação de sites, sistemas de gerenciamento, automação de tarefas e jogos. Meus repositórios apresentam parte do meu aprendizado e das minhas experiências práticas com diferentes tecnologias.
+Aqui compartilho alguns dos projetos que desenvolvi, incluindo sites, sistemas de gerenciamento, aplicações e projetos relacionados à programação e criação de jogos.
 
 ## Contato
 
@@ -70,10 +70,8 @@ Desenvolvo projetos voltados à criação de sites, sistemas de gerenciamento, a
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavorossidellabruna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://www.linkedin.com/in/gustavorossidellabruna/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
----
-
-<p align="center">
-  Obrigado por visitar meu perfil. Fique à vontade para conhecer meus projetos.
-</p>
