@@ -55,9 +55,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
 </p>
 
-- Automação com Python
-- Microsoft Office — avançado
-
 ---
 
 ## Projetos
